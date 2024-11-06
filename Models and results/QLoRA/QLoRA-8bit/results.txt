@@ -1,0 +1,17 @@
+Start
+trainable params: 788,482 || all params: 355,100,676 || trainable%: 0.2220
+{'loss': 4.1255, 'grad_norm': 29.139081954956055, 'learning_rate': 1.532228360957643e-05, 'epoch': 0.31}
+{'loss': 1.85, 'grad_norm': 32.510292053222656, 'learning_rate': 2.9833486801718846e-05, 'epoch': 0.61}
+{'loss': 1.473, 'grad_norm': 20.867660522460938, 'learning_rate': 2.59975445058318e-05, 'epoch': 0.92}
+{'eval_loss': 1.097224473953247, 'eval_exact_match': 0.6097869114798282, 'eval_f1': 0.7002279661123888, 'eval_runtime': 400.8879, 'eval_samples_per_second': 29.617, 'eval_steps_per_second': 7.406, 'epoch': 1.0}
+{'loss': 1.3103, 'grad_norm': 29.165592193603516, 'learning_rate': 2.2161602209944753e-05, 'epoch': 1.23}
+{'loss': 1.2527, 'grad_norm': 30.135848999023438, 'learning_rate': 1.8327194597912832e-05, 'epoch': 1.53}
+{'loss': 1.1937, 'grad_norm': 9.5224609375, 'learning_rate': 1.4491252302025782e-05, 'epoch': 1.84}
+{'eval_loss': 1.0258733034133911, 'eval_exact_match': 0.6262949549397794, 'eval_f1': 0.7233584833378139, 'eval_runtime': 397.3714, 'eval_samples_per_second': 29.879, 'eval_steps_per_second': 7.472, 'epoch': 2.0}
+{'loss': 1.1637, 'grad_norm': 25.77527618408203, 'learning_rate': 1.0656077348066299e-05, 'epoch': 2.15}
+{'loss': 1.134, 'grad_norm': 21.279611587524414, 'learning_rate': 6.820902394106814e-06, 'epoch': 2.46}
+{'loss': 1.1293, 'grad_norm': 10.245930671691895, 'learning_rate': 2.9857274401473296e-06, 'epoch': 2.76}
+{'eval_loss': 0.9745385646820068, 'eval_exact_match': 0.6462562115724754, 'eval_f1': 0.7444603574434282, 'eval_runtime': 362.6405, 'eval_samples_per_second': 32.74, 'eval_steps_per_second': 8.187, 'epoch': 3.0}
+{'train_runtime': 72112.7414, 'train_samples_per_second': 5.421, 'train_steps_per_second': 0.678, 'train_loss': 1.5857278897617404, 'epoch': 3.0}
+Evaluation Results: {'eval_loss': 0.9745385646820068, 'eval_exact_match': 0.6462562115724754, 'eval_f1': 0.7444603574434282, 'eval_runtime': 362.5824, 'eval_samples_per_second': 32.746, 'eval_steps_per_second': 8.188, 'epoch': 3.0}
+Done
